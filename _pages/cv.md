@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My academic pursuits have consistently centered around the field of surface science, with a strong interdisciplinary approach involving corrosion and material science, surface nanoscience and physical chemistry. She is particularly interested in investigating the assembly and interaction of molecules on surfaces, by using a combination of ultra-high vacuum (UHV) techniques, including scanning probe microscopy and X-ray photoelectron spectroscopy.
+My academic pursuits have consistently centered around the field of surface science, with a strong interdisciplinary approach involving corrosion and material science, surface nanoscience and physical chemistry. I am particularly interested in investigating the assembly and interaction of molecules on surfaces, by using a combination of ultra-high vacuum (UHV) techniques, including scanning probe microscopy and X-ray photoelectron spectroscopy.
 <br>
 
 <body>
