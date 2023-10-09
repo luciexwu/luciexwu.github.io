@@ -37,7 +37,7 @@ DFT modeling
 
 Figure
 ------
-<img src="images/Figure4.png" alt="Snow" style="width:100%">
+<img src="images/Figure_AFM.png" alt="Snow" style="width:100%">
 
 Figure
 ------

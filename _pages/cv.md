@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Chimie ParisTech - PSL 2020
-* M.S. in IFCEN, Sun Yat-sen University, 2017
-* B.S. in IFCEN, Sun Yat-sen University, 2015
+My academic pursuits have consistently centered around the field of surface science, with a strong interdisciplinary approach involving corrosion and material science, surface nanoscience and physical chemistry. She is particularly interested in investigating the assembly and interaction of molecules on surfaces, by using a combination of ultra-high vacuum (UHV) techniques, including scanning probe microscopy and X-ray photoelectron spectroscopy.
+<br>
+
+<body>
+  <p>Please find my personal <a href="/files/CV_english_Xiaocui_Wu.pdf">CV</a>.</p>
+</body>
 
 <!--
 Work experience
